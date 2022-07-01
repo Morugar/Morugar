@@ -1,4 +1,4 @@
-![Morugar](assets/Morugar.png "That's me 😎")
+![Morugar](readme/Morugar.png "That's me 😎")
 
 <!--
 **Morugar/Morugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## Blitzkrieg
 
-> Hi, I'm Alexander, 17 y/o `Fullstack Dev` from ![Russia](assets/flag.png "Russia")
+> Hi, I'm Alexander, 17 y/o `Fullstack Dev` from ![Russia](readme/flag.png "Russia")
 
 
 <!-- ---- -->
