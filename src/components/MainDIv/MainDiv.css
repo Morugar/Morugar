@@ -1,0 +1,23 @@
+* {
+    background-color: #171616;
+}
+
+.MainDiv {
+    margin-top: 0%;
+    margin-left: 25%;
+}
+
+.logo {
+    /*border-radius: 100%;*/
+    background: transparent;
+    float: right;
+    justify-self: end;
+}
+
+.username {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 144px;
+    margin-top: 261px;
+}
