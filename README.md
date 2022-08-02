@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 
 
-New acc - ![MorugaShestak](https://github.com/MorugaShestak)
+New acc - [MorugaShestak](https://github.com/MorugaShestak)
